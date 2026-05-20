@@ -1,8 +1,3 @@
-# AI-Invoice-System
-Absolutely! Here’s a clear, professional README you can use for your **AI Invoice Extraction** project. I’ve structured it for both **backend (FastAPI)** and **frontend (React)** with instructions on setup, usage, and functionality.
-
----
-
 # AI Invoice Extraction
 
 A full-stack web application that uses AI to extract structured invoice data from uploaded files. Users can upload invoices, view editable extracted data, and submit or load the data into their software.
