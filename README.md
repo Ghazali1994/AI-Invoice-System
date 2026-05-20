@@ -121,5 +121,3 @@ frontend/
 ## License
 
 MIT License – Free to use and modify.
-
-Do you want me to make the Docker-ready version too?
